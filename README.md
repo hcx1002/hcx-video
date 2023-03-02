@@ -1,4 +1,4 @@
-# spring boot M3U8视频播放器 
+# 幻彩希视频 
 ### 上传解码视频
 ### 前端使用vue3+ts+ElementUI
 ### 后端使用Springboot+Mybatis-Plus+Sa-Token+Rabbitmq+Redis+ffmpeg
